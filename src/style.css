@@ -1,0 +1,15 @@
+*{
+    background-color: 	bisque;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    margin-top: 14px;
+    margin-left: 8px;
+    margin-right: 8px;
+    
+}
+.Header{
+    display: flex;
+    justify-content: space-between;
+}
+.Logo{
+    
+}
