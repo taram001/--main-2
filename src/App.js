@@ -6,11 +6,12 @@ function App() {
     <div className="Header">
       <p>О нас</p>
       <p>Контакты</p>     
-      <p>Меню</p>
-      <p>Сезонные предложения</p>
       <div className='Logo'>
         <img src={logo} alt='Кофе_сердце' />
+        <p className='Name_kafe'>Любовь в ритме кофе</p> 
       </div>
+      <p>Меню</p>
+      <p>Сезонные предложения</p>
     </div>
 
   );
